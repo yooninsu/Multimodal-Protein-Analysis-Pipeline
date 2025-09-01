@@ -1,4 +1,4 @@
-# GraphBepi Multimodal Protein Analysis Pipeline
+# Multimodal Protein Analysis Pipeline
 
 A comprehensive Nextflow pipeline for multimodal protein epitope prediction combining structure prediction, sequence embeddings, and graph neural networks on AWS cloud infrastructure.
 
