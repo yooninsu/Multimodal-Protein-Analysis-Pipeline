@@ -1,0 +1,11 @@
+# Nextflow directories
+.nextflow/
+work/
+output/
+aws/
+# Logs
+.nextflow.log*
+
+# Other
+*.swp
+*.pem
