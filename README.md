@@ -294,10 +294,8 @@ This project is licensed under the MIT License - see the [LICENSE](LICENSE) file
 
 ## 📧 Contact
 
-- **Author**: Your Name
-- **Email**: your.email@institution.edu
-- **Lab**: [Your Lab Website](https://yourlab.edu)
-- **Issues**: [GitHub Issues](https://github.com/your-username/graphbepi-pipeline/issues)
+- **Author**: Insu Yoon
+- **Email**: yooninsu1201l@gmail.com
 
 ---
 
